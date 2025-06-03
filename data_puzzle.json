@@ -1,0 +1,14 @@
+[
+    {
+        "image_url": "https://raw.githubusercontent.com/nielsezeka/raw_json_support/refs/heads/main/server_manga/output/ComfyUI_00002_.jpg",
+        "difficulty": "2"
+    },
+    {
+        "image_url": "https://raw.githubusercontent.com/nielsezeka/raw_json_support/refs/heads/main/server_manga/output/ComfyUI_00007_.jpg",
+        "difficulty": "3"
+    },
+    {
+        "image_url": "https://raw.githubusercontent.com/nielsezeka/raw_json_support/refs/heads/main/server_manga/output/ComfyUI_00010_.jpg",
+        "difficulty": "4"
+    }
+]
