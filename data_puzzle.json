@@ -1,17 +1,207 @@
 [
-    {
-        "image_url": "https://raw.githubusercontent.com/nielsezeka/raw_json_support/refs/heads/main/server_manga/output/ComfyUI_00002_.jpg",
-        "difficulty": 3,
-        "id": 0
-    },
-    {
-        "image_url": "https://raw.githubusercontent.com/nielsezeka/raw_json_support/refs/heads/main/server_manga/output/ComfyUI_00007_.jpg",
-        "difficulty": 3,
-        "id": 1
-    },
-    {
-        "image_url": "https://raw.githubusercontent.com/nielsezeka/raw_json_support/refs/heads/main/server_manga/output/ComfyUI_00010_.jpg",
-        "difficulty": 4,
-        "id": 2
-    }
+  {
+    "id": 1,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00006_.jpg",
+    "difficulty": 3
+  },
+  {
+    "id": 2,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00010_.jpg",
+    "difficulty": 3
+  },
+  {
+    "id": 3,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00030_.jpg",
+    "difficulty": 5
+  },
+  {
+    "id": 4,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00026_.jpg",
+    "difficulty": 5
+  },
+  {
+    "id": 5,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00027_.jpg",
+    "difficulty": 3
+  },
+  {
+    "id": 6,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00031_.jpg",
+    "difficulty": 4
+  },
+  {
+    "id": 7,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00011_.jpg",
+    "difficulty": 3
+  },
+  {
+    "id": 8,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00007_.jpg",
+    "difficulty": 3
+  },
+  {
+    "id": 9,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00036_.jpg",
+    "difficulty": 5
+  },
+  {
+    "id": 10,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00020_.jpg",
+    "difficulty": 4
+  },
+  {
+    "id": 11,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00041_.jpg",
+    "difficulty": 4
+  },
+  {
+    "id": 12,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00016_.jpg",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00017_.jpg",
+    "difficulty": 4
+  },
+  {
+    "id": 14,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00040_.jpg",
+    "difficulty": 5
+  },
+  {
+    "id": 15,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00001_.jpg",
+    "difficulty": 5
+  },
+  {
+    "id": 16,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00021_.jpg",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00037_.jpg",
+    "difficulty": 5
+  },
+  {
+    "id": 18,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00018_.jpg",
+    "difficulty": 4
+  },
+  {
+    "id": 19,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00022_.jpg",
+    "difficulty": 3
+  },
+  {
+    "id": 20,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00034_.jpg",
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00014_.jpg",
+    "difficulty": 3
+  },
+  {
+    "id": 22,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00002_.jpg",
+    "difficulty": 4
+  },
+  {
+    "id": 23,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00038_.jpg",
+    "difficulty": 3
+  },
+  {
+    "id": 24,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00039_.jpg",
+    "difficulty": 3
+  },
+  {
+    "id": 25,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00003_.jpg",
+    "difficulty": 4
+  },
+  {
+    "id": 26,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00015_.jpg",
+    "difficulty": 4
+  },
+  {
+    "id": 27,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00035_.jpg",
+    "difficulty": 4
+  },
+  {
+    "id": 28,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00023_.jpg",
+    "difficulty": 3
+  },
+  {
+    "id": 29,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00019_.jpg",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00012_.jpg",
+    "difficulty": 4
+  },
+  {
+    "id": 31,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00004_.jpg",
+    "difficulty": 5
+  },
+  {
+    "id": 32,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00028_.jpg",
+    "difficulty": 4
+  },
+  {
+    "id": 33,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00008_.jpg",
+    "difficulty": 3
+  },
+  {
+    "id": 34,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00024_.jpg",
+    "difficulty": 3
+  },
+  {
+    "id": 35,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00032_.jpg",
+    "difficulty": 4
+  },
+  {
+    "id": 36,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00033_.jpg",
+    "difficulty": 4
+  },
+  {
+    "id": 37,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00025_.jpg",
+    "difficulty": 5
+  },
+  {
+    "id": 38,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00009_.jpg",
+    "difficulty": 5
+  },
+  {
+    "id": 39,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00029_.jpg",
+    "difficulty": 4
+  },
+  {
+    "id": 40,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00005_.jpg",
+    "difficulty": 4
+  },
+  {
+    "id": 41,
+    "image_url": "https://raw.githubusercontent.com/nangovinasapp/resource_sliding_puzzle/refs/heads/main/ai_level/ComfyUI_00013_.jpg",
+    "difficulty": 4
+  }
 ]
